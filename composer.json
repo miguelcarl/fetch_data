@@ -1,0 +1,17 @@
+{
+    "name": "migs/basilio",
+    "autoload": {
+        "psr-4": {
+            "Migs\\Basilio\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "miguelcarl",
+            "email": "miguelcarlbasilio19@gmail.com"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^1.12"
+    }
+}
